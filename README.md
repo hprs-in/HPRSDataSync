@@ -1,4 +1,4 @@
 # HPRSDataSync
 
 
-[SonarCloud Report](https://sonarcloud.io/dashboard?id=parthsanepara_HPRSDataSync) 🧪
+[SonarCloud Report](https://sonarcloud.io/dashboard?id=hprs-in_HPRSDataSync) 🧪
