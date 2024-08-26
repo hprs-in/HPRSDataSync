@@ -14,5 +14,6 @@
 int main(int argc, char const *argv[])
 {
     printf("Hello World!\n");
+    int a=9.2;
     return 0;
 }
